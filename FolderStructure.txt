@@ -1,0 +1,9 @@
+E:\Dev\Repos\.r2d2Proton\logo_animations\build\app\intermediates\flutter\debug\flutter_assets
+	fonts
+		<empty>
+	packages
+		cupertino_icons
+			assets
+				<empty>
+	shaders
+		<empty>
